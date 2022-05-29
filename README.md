@@ -1,6 +1,7 @@
 - Meu nome é Luiz Antonio de Boni Zolet
 - Sou professor de Pensamento Computacional
 - Sejam Bem Vndos a Nossa Plataforma de Compartilhar arquivos
+- Email:  zolet@seed.pr.gov.br
 
 
 <!---
